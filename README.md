@@ -1,1 +1,1 @@
-# odin-recipes
+What is up, I'm trying to learn how to code and currently learning html. So far so good right now on Odin they're having me create a website for recipes so we're going to do that and see where it takes us, 8/25/25
